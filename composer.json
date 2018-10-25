@@ -1,0 +1,14 @@
+{
+    "require": {
+        "slim/slim": "^3.11",
+        "swiftmailer/swiftmailer": "^6.1"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Libraries\\": "libraries"
+        }
+    }
+}
